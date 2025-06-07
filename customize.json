@@ -1,0 +1,31 @@
+{
+  "greeting": "Haloo",
+  "name": "Fatihana Syifa Qolbi Fauzi",
+  "greetingText": "Aku sangat beruntung bertemu kamu yang cantik di dunia ini",
+  "wishText": "Semoga wajahmu tetap awet muda, dan rambutmu seindah bunga, tahun demi tahun. Semoga rambutmu tetap awet muda, dan semoga kamu bahagia setiap tahun.",
+  "imagePath": "img/lydia2.png",
+  "text1": "Hari ini Hari Ulang Tahun Kamuuu!!! :D",
+  "textInChatBox": "Selamat Ulang Tahunn Cantikk",
+  "sendButtonLabel": "pencet",
+  "text2": "spesiall buatt kamu",
+  "text3": "I thought about it seriously for a long time",
+  "text4": "I realized that I wanted to do something",
+  "text4Adjective": "special things",
+  "text5Entry": "because,",
+  "text5Content": "You are very special to me.",
+  "smiley": ":)",
+  "bigTextPart1": "Place",
+  "bigTextPart2": "to",
+  "wishHeading": "Happy Biryhday!",
+  "outroText": "I hope you enjoy this little surprise.!",
+  "replayText": "kaloo kamu sukaa kamu bisa replayy kok.! ",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Ma Shan Zheng",
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    }
+  ]
+}
+
